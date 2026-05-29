@@ -53,6 +53,7 @@ dkms.conf
 
 # debug information files
 *.dwo
+<<<<<<< HEAD
 # MCUXpresso files
 Debug/
 Release/
@@ -61,3 +62,5 @@ Release/
 *.db
 *.log
 .metadata/
+=======
+>>>>>>> f13e93276b719841b29d2968e7aed25f283ac4d6
